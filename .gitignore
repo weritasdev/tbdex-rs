@@ -41,3 +41,7 @@ bound/typescript/src/wasm/generated.d.ts
 bound/typescript/tests/compiled
 bound/typescript/node_modules/
 examples/hosted-wallet-ts/node_modules/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
